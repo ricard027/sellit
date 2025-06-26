@@ -1,4 +1,4 @@
-# Testing Sellit
+# Sellit
 
 ## Configuração e execução do serviço
 
